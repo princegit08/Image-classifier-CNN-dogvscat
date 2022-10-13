@@ -10,7 +10,13 @@ The model is able to differenciate between the images of two different animals, 
 
 ## Screenshots
 ![alt text](https://github.com/princegit08/Image-classifier-CNN-dogvscat/blob/main/Interface/landingpage.png)
+
+Select the image and click on predict.
+
 ![alt text](https://github.com/princegit08/Image-classifier-CNN-dogvscat/blob/main/Interface/imageselection.png)
+
+Result
+
 ![alt text](https://github.com/princegit08/Image-classifier-CNN-dogvscat/blob/main/Interface/resultpage.png)
 ## Requirements
 
