@@ -19,6 +19,7 @@ The model is able to differenciate between the images of two different animals, 
 2. os
 3. NumPy
 4. matplotlib
+5. Flask
 ### Tools
 1. Google Colab
 2. Jupyter Notebook
